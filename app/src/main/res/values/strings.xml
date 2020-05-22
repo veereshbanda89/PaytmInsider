@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Paytm Insider</string>
+    <string name="featured_events">Featured Events</string>
+    <string name="no_internet_connection">Please check your internet connection</string>
+    <string name="apiErrorString">No Data Available</string>
+    <string name="api_progress_message">Please Wait...</string>
+    <string name="popular_events">Popular Events</string>
+    <string name="view_all_events">View All</string>
+    <string name="rupees">Rs.</string>
+    <string name="all_events">All Events</string>
+    <string name="explore">Explore</string>
+</resources>
